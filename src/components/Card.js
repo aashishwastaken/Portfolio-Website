@@ -1,12 +1,12 @@
 import React from 'react'
 
 export default function Card({ work}) {
-    let imgPath='https://raw.githubusercontent.com/aashishwastaken/Portfolio-website/277c117243dcb94f10d5a692725b9c9697f84cd6/public/';
+    let imgPath='https://raw.githubusercontent.com/aashishwastaken/Portfolio-Website/main/public/images/';
     return (
         <div className="card" >
             
             <div className="inner-card">
-                <img className="work-image" alt={`screenshot-${work.image}`} src={`${imgPath}images/${work.image}.png`} />
+                <img className="work-image" alt={`screenshot-${work.image}`} src={`${imgPath+work.image}.png`} />
                 <div className="work-title">{work.title}</div>
                 <div className="work-description">{work.description}</div>
                 
