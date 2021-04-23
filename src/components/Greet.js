@@ -16,7 +16,7 @@ export default function Greet() {
                 <h1 >I am Aashish Prasad</h1>
                 <h2>And <br/>I am a Full Stack Web Developer</h2>
             </div> */}
-            <div id="greet" style={{ top: '25vh' }}  className="sign row">
+            <div id="greet" style={{ top: '20vh' }}  className="sign row">
                 <div className="row"><span className="fast-flicker">I &nbsp; </span>
                  AM </div>
                 <div className="row"> <span className="flicker">AASHISH&nbsp;</span> PRASAD</div>

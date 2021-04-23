@@ -17,7 +17,7 @@ export default function Contact() {
 
 
       <div id="contact-methods" className="row">
-
+        
         <a className="col" href="https://www.linkedin.com/in/aashishwastaken/" rel="noreferrer" target="_blank">
           <p><FontAwesomeIcon icon={['fab', 'linkedin']} /></p>
             LinkedIn</a>
