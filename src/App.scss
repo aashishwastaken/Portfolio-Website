@@ -378,3 +378,9 @@ footer > p{
     bottom: 15px;
   }
 }
+
+@media screen and (max-width:450px){
+  .card{
+    height:54vh;
+  }
+}
