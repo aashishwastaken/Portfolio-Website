@@ -4,7 +4,7 @@
         webLink: "https://aashishwastaken.github.io/Sorting-Algorithm-Visualizer/",
         code:"https://github.com/aashishwastaken/Sorting-Algorithm-Visualizer",
         description: "A website to visualize various sorting algorithms as they get sorted, step by step in real time.",
-        tools:"React.js, Material UI, gh-pages",
+        tools:"React-Hooks, Material UI, gh-pages",
         image:"sortViz",
 
     }, {
@@ -12,7 +12,7 @@
         webLink: "https://merng-social-network-client.herokuapp.com/",
         code:"https://github.com/aashishwastaken/MERNG-SocialNetwork-Client",
         description: "Users can create, like, comment and delete(only their own) posts.",
-        tools:"MongoDB, Apollo-Server, React, Node, GraphQL",
+        tools:"MongoDB, Apollo-Server, React-Hooks, Node, GraphQL",
         image:"merng"
 
     }, {
