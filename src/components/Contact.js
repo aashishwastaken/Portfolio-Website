@@ -2,7 +2,7 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { fab } from '@fortawesome/free-brands-svg-icons';
-import { faEnvelope, faMobileAlt, faTools, faCoffee } from '@fortawesome/free-solid-svg-icons';
+import { faEnvelope, faMobileAlt, faTools, faCoffee, faCodeBranch } from '@fortawesome/free-solid-svg-icons';
 
 import '../App.scss';
 import './contact.css';
@@ -42,6 +42,12 @@ export default function Contact() {
           Built By <FontAwesomeIcon icon={faTools} />
           <a href="https://www.linkedin.com/in/aashishwastaken/" target="_blank" rel="noreferrer" >AashishWasTaken</a>
           </p>
+
+          <p>
+          Get the <FontAwesomeIcon icon={faCodeBranch} />
+         <a href="https://github.com/aashishwastaken/Portfolio-Website/" target="_blank" rel="noreferrer" >Source Code</a>
+          </p>
+
           <p> Deployed on <FontAwesomeIcon icon={['fab', 'aws']} />
            <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer" >AWS Amplify</a>
         </p>

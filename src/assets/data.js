@@ -60,9 +60,16 @@
         title: "Exercise Tracker REST API",
         webLink: "https://fcc-project-four.glitch.me/",
         code:"https://glitch.com/edit/#!/fcc-project-four",
-        description: "I can add/retrive an exercise to any user by posting form data userId",
+        description: "You can add/retrive an exercise-data of any user by posting form data userId field",
         tools:"Express, Node.js, MongoDB, Mongoose",
         image:"b2"
+    },  {
+        title: "Passport.js Auth System",
+        webLink: "https://passportjs-auth-system.aashishwastaken.repl.co/",
+        code:"https://replit.com/@aashishwastaken/Passportjs-Auth-System#README.md",
+        description: "Used Passport.js JavaScript Library to create an Auth system using LocalStrategy and GitHubStrategy and routed users to chat screen ",
+        tools:"Express, Node.js, MongoDB, Mongoose, Socket.io",
+        image:"b3"
     }],
 
     "D3 - Data Driven Documents Projects": [{
